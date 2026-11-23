@@ -1,0 +1,3 @@
+Inicio de registro: AULA 202 (Carlos Ruiz)
+Inicio de práctica en laboratorio
+Error en la sesión: ValueError
