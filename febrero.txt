@@ -1,5 +1,0 @@
-Ventas De Febrero
-------------------------------
-Bufandas: 45.00
-------------------------------
-INFORME INCOMPLETO: ValueError
